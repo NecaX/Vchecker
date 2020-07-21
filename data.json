@@ -1,0 +1,22 @@
+{
+  "Google Calendar": {
+    "url": "https://apkcombo.com/es-es/google-calendar/com.google.android.calendar/",
+    "Version": "2020.02.4-291879932-release"
+  },
+  "Google Play Store": {
+    "url": "https://apkcombo.com/es-es/google-play-store/com.android.vending/",
+    "Version": "18.6.33-all"
+  },
+  "Hangouts": {
+    "url": "https://apkcombo.com/es-es/hangouts/com.google.android.talk/",
+    "Version": "31.0.246194187"
+  },
+  "Skype": {
+    "url": "https://apkcombo.com/es-es/skype-free-im-video-calls/com.skype.raider/",
+    "Version": "8.56.0.100"
+  },
+  "WhatsApp": {
+    "url": "https://apkcombo.com/es-es/whatsapp-messenger/com.whatsapp/",
+    "Version": "2.20.27"
+  }
+}
